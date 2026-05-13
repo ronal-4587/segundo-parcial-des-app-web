@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Whisky Buchanan's Deluxe 12 Años x 750ml",
+    "price": 140000,
+    "category": "Whisky",
+    "stock": 12,
+    "description": "Un clásico escocés con notas suaves de cítricos y chocolate. Ideal para compartir.",
+    "image": "/imagenes/producto_1.png"
+  },
+  {
+    "id": 2,
+    "name": "Whisky Old Parr 12 Años x 750ml",
+    "price": 135000,
+    "category": "Whisky",
+    "stock": 8,
+    "description": "Suave, maduro y accesible. Sabor característico y aroma intenso.",
+    "image": "/imagenes/producto_2.png"
+  },
+  {
+    "id": 3,
+    "name": "Aguardiente Antioqueño Sin Azúcar x 750ml",
+    "price": 45000,
+    "category": "Aguardiente",
+    "stock": 30,
+    "description": "El preferido en Colombia, puro, con sabor anisado y refrescante.",
+    "image": "/imagenes/producto_3.png"
+  },
+  {
+    "id": 4,
+    "name": "Aguardiente Blanco del Valle Sin Azúcar x 750ml",
+    "price": 43000,
+    "category": "Aguardiente",
+    "stock": 25,
+    "description": "Tradición del Valle. Suave y sin azúcar para disfrutar helado.",
+    "image": "/imagenes/producto_4.png"
+  },
+  {
+    "id": 5,
+    "name": "Tequila Don Julio Reposado x 700ml",
+    "price": 280000,
+    "category": "Tequila",
+    "stock": 6,
+    "description": "Envejecido en roble americano para un acabado sedoso y cálido.",
+    "image": "/imagenes/producto_5.png"
+  },
+  {
+    "id": 6,
+    "name": "Tequila Jose Cuervo Especial Reposado x 750ml",
+    "price": 95000,
+    "category": "Tequila",
+    "stock": 15,
+    "description": "El tequila más vendido del mundo. Perfecto para margaritas tradicionales.",
+    "image": "/imagenes/producto_6.png"
+  },
+  {
+    "id": 7,
+    "name": "Ron Viejo de Caldas 3 Años x 750ml",
+    "price": 50000,
+    "category": "Ron",
+    "stock": 20,
+    "description": "Ron añejado a gran altura, otorgando un sabor excepcional y equilibrado.",
+    "image": "/imagenes/producto_7.png"
+  },
+  {
+    "id": 8,
+    "name": "Ron La Hechicera x 700ml",
+    "price": 195000,
+    "category": "Ron",
+    "stock": 7,
+    "description": "Ron premium colombiano extra añejo. Sin azúcar añadida, con notas a cacao.",
+    "image": "/imagenes/producto_8.png"
+  },
+  {
+    "id": 9,
+    "name": "Vodka Smirnoff No. 21 x 700ml",
+    "price": 58000,
+    "category": "Vodka",
+    "stock": 18,
+    "description": "Vodka clásico, triple destilación. Perfecto para mezclar.",
+    "image": "/imagenes/producto_9.png"
+  },
+  {
+    "id": 10,
+    "name": "Vino Tinto Gato Negro Cabernet x 750ml",
+    "price": 35000,
+    "category": "Vino",
+    "stock": 22,
+    "description": "Vino chileno con intenso color rubí, aromas a frutos rojos oscuros.",
+    "image": "/imagenes/producto_10.png"
+  },
+  {
+    "id": 11,
+    "name": "Cerveza Aguila Botella x 330ml",
+    "price": 3500,
+    "category": "Cerveza",
+    "stock": 120,
+    "description": "Cerveza tipo lager, la más consumida en Colombia. Refrescante y dorada.",
+    "image": "/imagenes/producto_11.png"
+  },
+  {
+    "id": 12,
+    "name": "Cerveza Poker Lata x 330ml",
+    "price": 3500,
+    "category": "Cerveza",
+    "stock": 100,
+    "description": "El amigo ideal para parchar. Sabor balanceado y muy refrescante.",
+    "image": "/imagenes/producto_12.png"
+  },
+  {
+    "id": 13,
+    "name": "Cerveza Club Colombia Dorada x 330ml",
+    "price": 4500,
+    "category": "Cerveza",
+    "stock": 80,
+    "description": "Cerveza premium colombiana. Malta suave y amargura equilibrada.",
+    "image": "/imagenes/producto_13.png"
+  },
+  {
+    "id": 14,
+    "name": "Cerveza Corona Extra x 355ml",
+    "price": 6500,
+    "category": "Cerveza",
+    "stock": 60,
+    "description": "Cerveza mexicana internacional. Símbolo de verano, perfecta con limón.",
+    "image": "/imagenes/producto_14.png"
+  },
+  {
+    "id": 15,
+    "name": "Cerveza Stella Artois Botella x 330ml",
+    "price": 6000,
+    "category": "Cerveza",
+    "stock": 70,
+    "description": "Pilsner belga de renombre. Sabor sofisticado e ingredientes selectos.",
+    "image": "/imagenes/producto_15.png"
+  }
+]

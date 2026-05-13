@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "usuario": "Jaider",
+    "password": "ortega123",
+    "nombre": "Jaider Ortega",
+    "rol": "admin"
+  },
+  {
+    "id": 2,
+    "usuario": "admin",
+    "password": "admin123",
+    "nombre": "Administrador",
+    "rol": "admin"
+  }
+]

@@ -1,27 +1,26 @@
-# 🥃 Estanco Ortega — Segundo Parcial Desarrollo de Aplicaciones Web
+#  Estanco Ortega — Segundo Parcial Desarrollo de Aplicaciones Web
 
 Sistema de gestión de inventario para una licorería, construido con **Vue 3**, **Vue Router** y **Bootstrap 5**.
 
 ---
 
-## 👨‍💻 Integrantes
+## Integrantes
 
 | Nombre | Rol |
 |--------|-----|
-| Integrante 1 | Desarrollador Frontend |
-| Integrante 2 | Desarrollador Frontend |
+| Ronal Carvajalino - 0192623 | Desarrollador Frontend |
+| Jaider Ortega - 0192579| Desarrollador Frontend |
 
-> Programa: Tecnología en Desarrollo de Software — UFPSO / SENA CIES (Ficha 3170067)
 
 ---
 
-## 🏪 Descripción del Negocio
+## Descripción del Negocio
 
 **Estanco Ortega** es una licorería premium ubicada en Norte de Santander, Colombia. Esta aplicación simula un panel de administración para gestionar el inventario de productos (licores, cervezas, vinos), clientes y estadísticas del negocio.
 
 ---
 
-## 🗂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 segundo-parcial-des-app-web/
@@ -55,7 +54,7 @@ segundo-parcial-des-app-web/
 
 ---
 
-## ⚙️ Instalación y ejecución
+## Instalación y ejecución
 
 ```bash
 # 1. Instalar dependencias
@@ -70,9 +69,9 @@ npm run build
 
 ---
 
-## 🔐 Autenticación
+## Autenticación
 
-> ⚠️ **Aviso educativo:** Esta validación es únicamente con fines académicos y **no representa un sistema de autenticación seguro para producción**. Las contraseñas se almacenan en texto plano en un JSON local.
+ **Aviso educativo:** Esta validación es únicamente con fines académicos y **no representa un sistema de autenticación seguro para producción**. Las contraseñas se almacenan en texto plano en un JSON local.
 
 La autenticación valida las credenciales contra `public/data/usuarios.json`. Si son correctas, guarda la sesión en `localStorage` y redirige al Dashboard.
 
@@ -82,7 +81,7 @@ La autenticación valida las credenciales contra `public/data/usuarios.json`. Si
 
 ---
 
-## 🧩 Modularización
+## Modularización
 
 ### Componentes reutilizables
 
@@ -119,7 +118,7 @@ La autenticación valida las credenciales contra `public/data/usuarios.json`. Si
 
 ---
 
-## 💾 CRUD Simulado con LocalStorage
+## CRUD Simulado con LocalStorage
 
 El `productService.js` implementa las 4 operaciones fundamentales:
 
@@ -143,7 +142,7 @@ deleteProduct(id)
 
 ---
 
-## 🎨 Bootstrap y paleta de colores
+## Bootstrap y paleta de colores
 
 Las variables de Bootstrap se sobrescriben en `App.vue` para adaptar la paleta dorada de Estanco Ortega:
 
@@ -157,6 +156,6 @@ Las variables de Bootstrap se sobrescriben en `App.vue` para adaptar la paleta d
 
 ---
 
-## 🤝 Trabajo colaborativo
+## Trabajo colaborativo
 
 - **Repositorio:** https://github.com/ronal-4587/segundo-parcial-des-app-web

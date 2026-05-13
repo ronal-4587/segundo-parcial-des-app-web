@@ -159,7 +159,4 @@ Las variables de Bootstrap se sobrescriben en `App.vue` para adaptar la paleta d
 
 ## 🤝 Trabajo colaborativo
 
-- **Repositorio:** [https://github.com/TU_USUARIO/segundo-parcial-des-app-web](https://github.com/TU_USUARIO/segundo-parcial-des-app-web)
-- Ver [commits](https://github.com/TU_USUARIO/segundo-parcial-des-app-web/commits/main)
-- Ver [ramas](https://github.com/TU_USUARIO/segundo-parcial-des-app-web/branches)
-- Ver [pull requests](https://github.com/TU_USUARIO/segundo-parcial-des-app-web/pulls)
+- **Repositorio:** https://github.com/ronal-4587/segundo-parcial-des-app-web
